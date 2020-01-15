@@ -1,0 +1,16 @@
+Flask           == 1.1.1
+nltk            == 3.4.5
+Keras           == 2.3.1
+numpy           == 1.17.2
+pandas          == 0.25.1
+tqdm            == 4.36.1
+profanity-check == 1.0.3
+textblob        == 0.15.3
+Theano          == 1.0.4
+dill            == 0.3.1.1
+tensorboard     == 2.0.2
+tensorflow      == 2.0.0
+tensorflow-estimator==2.0.1
+pickleshare     == 0.7.5
+pyspark         == 2.4.4
+hatesonar==0.0.4
